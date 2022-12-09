@@ -41,7 +41,7 @@ When a Markdown-formmatted file is created, the user adds Markdown syntax to spe
 |                | - Second|
 |                | - Third|
 | Code |  `Title ' |
-| Link | [ Text ](https://www.website.com|
+| Link | [ Text ](https://www.website.com |
 | Image| ! [alt] (image.jpg)  |
 
 ### Opening Markdown Files
@@ -54,3 +54,5 @@ IDEs support features such as:
 - Syntax highlights coloring 
 - Preview of Markdown in HTML view
 - Exporting to PDF and other documents
+
+[Return To The Homepage](https://github.com/JacksonBrewer/1600_Final/blob/main/README.md)
